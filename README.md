@@ -1,3 +1,5 @@
+> **Archived demo.** Kept for reference only; not maintained.
+
 ## Task Description
 Implement the following state diagram in C. The state machine represents a 
 interface that can either 
